@@ -1,0 +1,4 @@
+/Users/simon/simon_github/systembuilding/build/CMakeFiles/rebuild_cache.dir
+/Users/simon/simon_github/systembuilding/build/CMakeFiles/edit_cache.dir
+/Users/simon/simon_github/systembuilding/build/CMakeFiles/generating.dir
+/Users/simon/simon_github/systembuilding/build/CMakeFiles/main.dir
