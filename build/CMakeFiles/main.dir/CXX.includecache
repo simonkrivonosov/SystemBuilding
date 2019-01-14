@@ -6,3 +6,11 @@
 
 #IncludeRegexTransform: 
 
+.././B/main.h
+
+/Users/simon/simon_github/systembuilding/A/main.cpp
+B/main.h
+/Users/simon/simon_github/systembuilding/A/B/main.h
+iostream
+-
+
